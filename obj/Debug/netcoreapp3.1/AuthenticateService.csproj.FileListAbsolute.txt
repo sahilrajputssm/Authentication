@@ -1,0 +1,93 @@
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.csprojAssemblyReference.cache
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.xml
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+E:\GitUpload\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache
+E:\GitUpload\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Authenticate.yaml
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Authenticate.yaml
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.csprojAssemblyReference.cache
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.xml
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+C:\Users\Deva\Music\Authenticate\AuthenticateService\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\AuthenticateService.exe
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Authenticate.yaml
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\AuthenticateService.deps.json
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.json
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\AuthenticateService.runtimeconfig.dev.json
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\AuthenticateService.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\AuthenticateService.pdb
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.csprojAssemblyReference.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfoInputs.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.AssemblyInfo.cs
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CoreCompileInputs.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.RazorTargetAssemblyInfo.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.csproj.CopyComplete
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.Manifest.cache
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticateService.StaticWebAssets.xml
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.dll
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.pdb
+C:\Users\Shruti Kumari\Desktop\projectFinal\AuthMS-master\obj\Debug\netcoreapp3.1\AuthenticateService.genruntimeconfig.cache
